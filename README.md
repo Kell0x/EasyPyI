@@ -39,7 +39,7 @@ pip install pyinstaller
 Clonez ce dépôt ou téléchargez les fichiers source.
 
 ```bash
-git clone https://github.com/ton-utilisateur/EasyPyI.git
+git clone https://github.com/Kell0x/EasyPyI.git
 cd EasyPyI
 ```
 
